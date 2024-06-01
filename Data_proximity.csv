@@ -1,0 +1,676 @@
+id,created_at,proximity,distance,description,beacon_id,actual,rssi
+5028,2024-05-22 07:14:29+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5029,2024-05-22 07:14:30+00,Near,0.33,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5030,2024-05-22 07:14:31+00,Near,0.35,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5031,2024-05-22 07:14:32+00,Near,0.33,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5032,2024-05-22 07:14:33+00,Immediate,0.26,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5033,2024-05-22 07:14:34+00,Immediate,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5034,2024-05-22 07:14:35+00,Immediate,0.22,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5035,2024-05-22 07:14:36+00,Near,0.25,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5036,2024-05-22 07:14:37+00,Immediate,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5037,2024-05-22 07:14:38+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-45
+5038,2024-05-22 07:14:39+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5039,2024-05-22 07:14:40+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5040,2024-05-22 07:14:41+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5041,2024-05-22 07:14:42+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5042,2024-05-22 07:14:43+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5043,2024-05-22 07:14:44+00,Immediate,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5044,2024-05-22 07:14:45+00,Near,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5045,2024-05-22 07:14:46+00,Immediate,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5046,2024-05-22 07:14:47+00,Immediate,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5047,2024-05-22 07:14:48+00,Near,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5048,2024-05-22 07:14:49+00,Near,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5049,2024-05-22 07:14:50+00,Near,0.25,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5050,2024-05-22 07:14:51+00,Near,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5051,2024-05-22 07:14:52+00,Near,0.22,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5052,2024-05-22 07:14:53+00,Near,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5053,2024-05-22 07:14:54+00,Near,0.22,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5054,2024-05-22 07:14:55+00,Immediate,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5055,2024-05-22 07:14:56+00,Immediate,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5056,2024-05-22 07:14:57+00,Near,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5057,2024-05-22 07:14:58+00,Near,0.25,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5058,2024-05-22 07:14:59+00,Near,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5059,2024-05-22 07:15:00+00,Immediate,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5060,2024-05-22 07:15:01+00,Immediate,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5061,2024-05-22 07:15:02+00,Immediate,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5062,2024-05-22 07:15:03+00,Immediate,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5063,2024-05-22 07:15:04+00,Immediate,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5064,2024-05-22 07:15:05+00,Immediate,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5065,2024-05-22 07:15:06+00,Near,0.24,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5066,2024-05-22 07:15:07+00,Near,0.26,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5067,2024-05-22 07:15:08+00,Near,0.22,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5068,2024-05-22 07:15:09+00,Immediate,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5069,2024-05-22 07:15:10+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5070,2024-05-22 07:15:11+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5071,2024-05-22 07:15:12+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5072,2024-05-22 07:15:13+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5073,2024-05-22 07:15:14+00,Immediate,0.18,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-45
+5074,2024-05-22 07:15:15+00,Immediate,0.17,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-45
+5075,2024-05-22 07:15:16+00,Immediate,0.17,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-45
+5076,2024-05-22 07:15:17+00,Immediate,0.18,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5077,2024-05-22 07:15:18+00,Immediate,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5229,2024-05-22 07:18:43+00,Near,0.35,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5230,2024-05-22 07:18:44+00,Near,0.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5231,2024-05-22 07:18:45+00,Near,0.26,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5232,2024-05-22 07:18:46+00,Near,0.24,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5233,2024-05-22 07:18:47+00,Near,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5234,2024-05-22 07:18:48+00,Near,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5235,2024-05-22 07:18:49+00,Near,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5236,2024-05-22 07:18:50+00,Immediate,0.18,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-45
+5237,2024-05-22 07:18:51+00,Immediate,0.16,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-44
+5238,2024-05-22 07:18:52+00,Immediate,0.15,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-44
+5239,2024-05-22 07:18:53+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5240,2024-05-22 07:18:54+00,Near,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5241,2024-05-22 07:18:55+00,Near,0.27,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5242,2024-05-22 07:18:56+00,Near,0.3,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5243,2024-05-22 07:18:57+00,Near,0.25,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5244,2024-05-22 07:18:58+00,Immediate,0.25,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5245,2024-05-22 07:18:59+00,Immediate,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5246,2024-05-22 07:19:00+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-45
+5247,2024-05-22 07:19:01+00,Immediate,0.19,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-46
+5248,2024-05-22 07:19:02+00,Near,0.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5249,2024-05-22 07:19:03+00,Immediate,0.21,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5250,2024-05-22 07:19:04+00,Immediate,0.23,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5251,2024-05-22 07:19:05+00,Near,0.27,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5252,2024-05-22 07:19:06+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5253,2024-05-22 07:19:07+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-52
+5254,2024-05-22 07:19:08+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5255,2024-05-22 07:19:09+00,Near,0.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5256,2024-05-22 07:19:10+00,Near,0.28,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5257,2024-05-22 07:19:11+00,Near,0.32,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5258,2024-05-22 07:19:12+00,Near,0.34,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5259,2024-05-22 07:19:13+00,Near,0.35,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5260,2024-05-22 07:19:14+00,Far,0.38,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-52
+5261,2024-05-22 07:19:15+00,Near,0.37,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5262,2024-05-22 07:19:16+00,Near,0.3,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-48
+5263,2024-05-22 07:19:17+00,Near,0.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5264,2024-05-22 07:19:18+00,Near,0.3,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5265,2024-05-22 07:19:19+00,Near,0.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5266,2024-05-22 07:19:20+00,Near,0.32,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5267,2024-05-22 07:19:21+00,Near,0.34,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5268,2024-05-22 07:19:22+00,Near,0.37,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-52
+5269,2024-05-22 07:19:23+00,Near,0.39,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-52
+5270,2024-05-22 07:19:24+00,Near,0.4,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-52
+5271,2024-05-22 07:19:25+00,Near,0.33,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5272,2024-05-22 07:19:26+00,Near,0.32,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5273,2024-05-22 07:19:27+00,Near,0.34,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5274,2024-05-22 07:19:28+00,Near,0.39,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-53
+5275,2024-05-22 07:19:29+00,Far,0.43,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-53
+5276,2024-05-22 07:19:30+00,Far,0.56,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-58
+5277,2024-05-22 07:19:31+00,Far,0.64,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-57
+5278,2024-05-22 07:19:32+00,Near,0.62,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-55
+5279,2024-05-22 07:19:44+00,Near,0.99,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-59
+5280,2024-05-22 07:19:45+00,Near,0.86,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-56
+5281,2024-05-22 07:19:46+00,Near,0.62,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-52
+5282,2024-05-22 07:19:47+00,Near,0.48,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5283,2024-05-22 07:19:48+00,Near,0.42,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5284,2024-05-22 07:19:49+00,Near,0.44,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-53
+5285,2024-05-22 07:19:50+00,Near,0.48,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-54
+5286,2024-05-22 07:19:51+00,Near,0.53,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-55
+5287,2024-05-22 07:19:52+00,Near,0.56,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-55
+5288,2024-05-22 07:19:53+00,Near,0.54,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-54
+5289,2024-05-22 07:19:54+00,Near,0.51,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-53
+5290,2024-05-22 07:19:55+00,Near,0.52,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-54
+5291,2024-05-22 07:19:56+00,Near,0.58,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-56
+5292,2024-05-22 07:19:57+00,Near,0.78,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-62
+5293,2024-05-22 07:19:58+00,Near,0.95,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-62
+5294,2024-05-22 07:19:59+00,Near,1.06,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-61
+5295,2024-05-22 07:20:00+00,Near,1.13,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-61
+5296,2024-05-22 07:20:01+00,Near,1.13,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-60
+5297,2024-05-22 07:20:02+00,Near,1.08,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-59
+5298,2024-05-22 07:20:03+00,Near,1.1,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-60
+5299,2024-05-22 07:20:04+00,Near,1.11,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-60
+5300,2024-05-22 07:20:05+00,Near,1.07,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-59
+5301,2024-05-22 07:20:06+00,Near,1.05,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-59
+5302,2024-05-22 07:20:07+00,Near,0.84,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-55
+5303,2024-05-22 07:20:08+00,Near,0.49,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-49
+5304,2024-05-22 07:20:09+00,Near,0.4,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-50
+5305,2024-05-22 07:20:10+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-50
+5306,2024-05-22 07:20:11+00,Far,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5307,2024-05-22 07:20:12+00,Far,0.47,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-56
+5308,2024-05-22 07:20:13+00,Far,0.66,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-61
+5309,2024-05-22 07:20:14+00,Far,0.84,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-61
+5310,2024-05-22 07:20:15+00,Near,0.73,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-55
+5311,2024-05-22 07:20:16+00,Near,0.52,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5312,2024-05-22 07:20:17+00,Far,0.44,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5313,2024-05-22 07:20:18+00,Far,0.4,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5314,2024-05-22 07:20:19+00,Far,0.43,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-53
+5315,2024-05-22 07:20:20+00,Near,0.42,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-52
+5316,2024-05-22 07:20:21+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-50
+5317,2024-05-22 07:20:22+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5318,2024-05-22 07:20:23+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5319,2024-05-22 07:20:24+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-49
+5320,2024-05-22 07:20:25+00,Immediate,0.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-49
+5321,2024-05-22 07:20:26+00,Immediate,0.33,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5322,2024-05-22 07:20:27+00,Near,0.32,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-50
+5323,2024-05-22 07:20:28+00,Near,0.3,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-49
+5324,2024-05-22 07:20:29+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-50
+5325,2024-05-22 07:20:30+00,Near,0.39,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-54
+5326,2024-05-22 07:20:31+00,Near,0.47,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-55
+5327,2024-05-22 07:20:32+00,Near,0.41,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-51
+5328,2024-05-22 07:20:33+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-50
+5329,2024-05-22 07:21:04+00,Near,1.02,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-67
+5330,2024-05-22 07:21:05+00,Near,1.27,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-65
+5331,2024-05-22 07:21:06+00,Near,1.38,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5332,2024-05-22 07:21:07+00,Far,1.46,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5333,2024-05-22 07:21:08+00,Far,1.62,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-65
+5334,2024-05-22 07:21:09+00,Near,1.3,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-58
+5335,2024-05-22 07:21:10+00,Near,0.9,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-54
+5336,2024-05-22 07:21:11+00,Near,0.6,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-51
+5337,2024-05-22 07:21:12+00,Near,0.39,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-48
+5338,2024-05-22 07:21:13+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-48
+5339,2024-05-22 07:21:14+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-50
+5340,2024-05-22 07:21:15+00,Near,0.35,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-52
+5341,2024-05-22 07:21:16+00,Near,0.42,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-54
+5342,2024-05-22 07:21:17+00,Near,0.54,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5343,2024-05-22 07:21:18+00,Near,0.63,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5344,2024-05-22 07:21:19+00,Near,0.65,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-56
+5345,2024-05-22 07:21:20+00,Near,0.45,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-50
+5346,2024-05-22 07:21:21+00,Near,0.35,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-49
+5347,2024-05-22 07:21:22+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-49
+5348,2024-05-22 07:21:23+00,Near,0.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-49
+5349,2024-05-22 07:21:24+00,Near,0.27,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-48
+5350,2024-05-22 07:21:25+00,Near,0.27,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-49
+5351,2024-05-22 07:21:26+00,Near,0.35,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-53
+5352,2024-05-22 07:21:27+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-51
+5353,2024-05-22 07:21:28+00,Near,0.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-51
+5354,2024-05-22 07:21:29+00,Near,0.38,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-52
+5355,2024-05-22 07:21:30+00,Near,0.39,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-52
+5356,2024-05-22 07:21:31+00,Near,0.35,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-50
+5357,2024-05-22 07:21:32+00,Near,0.31,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-49
+5358,2024-05-22 07:21:33+00,Near,0.33,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-51
+5359,2024-05-22 07:21:34+00,Near,0.43,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-55
+5360,2024-05-22 07:21:35+00,Near,0.57,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-58
+5361,2024-05-22 07:21:36+00,Near,0.67,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-58
+5362,2024-05-22 07:21:37+00,Near,0.78,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-59
+5363,2024-05-22 07:21:38+00,Near,0.92,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5364,2024-05-22 07:21:39+00,Near,0.95,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-59
+5365,2024-05-22 07:21:40+00,Near,0.88,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5366,2024-05-22 07:21:41+00,Near,0.84,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5367,2024-05-22 07:21:42+00,Near,0.81,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5368,2024-05-22 07:21:43+00,Near,0.8,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5369,2024-05-22 07:21:44+00,Near,0.83,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-58
+5370,2024-05-22 07:21:45+00,Near,0.77,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-56
+5371,2024-05-22 07:21:46+00,Near,0.69,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-55
+5372,2024-05-22 07:21:47+00,Near,0.72,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5373,2024-05-22 07:21:48+00,Near,0.78,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-58
+5374,2024-05-22 07:21:49+00,Near,0.85,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-59
+5375,2024-05-22 07:21:50+00,Near,0.94,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-60
+5376,2024-05-22 07:21:51+00,Near,0.83,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-56
+5377,2024-05-22 07:21:52+00,Near,0.81,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-57
+5378,2024-05-22 07:21:53+00,Near,0.76,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-56
+5379,2024-05-22 07:22:19+00,Near,0.46,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-53
+5380,2024-05-22 07:22:20+00,Near,0.46,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-53
+5381,2024-05-22 07:22:21+00,Near,0.54,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-56
+5382,2024-05-22 07:22:22+00,Near,0.57,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-55
+5383,2024-05-22 07:22:23+00,Near,0.55,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-54
+5384,2024-05-22 07:22:24+00,Near,0.6,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-56
+5385,2024-05-22 07:22:25+00,Far,0.66,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-57
+5386,2024-05-22 07:22:26+00,Far,0.63,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-55
+5387,2024-05-22 07:22:27+00,Far,0.68,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-57
+5388,2024-05-22 07:22:28+00,Near,0.78,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-59
+5389,2024-05-22 07:22:29+00,Far,0.95,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-62
+5390,2024-05-22 07:22:30+00,Near,1.13,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5391,2024-05-22 07:22:31+00,Near,1.27,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5392,2024-05-22 07:22:32+00,Near,1.37,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5393,2024-05-22 07:22:33+00,Near,1.4,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-62
+5394,2024-05-22 07:22:34+00,Near,1.37,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-61
+5395,2024-05-22 07:22:35+00,Near,1.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-60
+5396,2024-05-22 07:22:36+00,Near,1.18,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-59
+5397,2024-05-22 07:22:37+00,Near,1.34,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-64
+5398,2024-05-22 07:22:38+00,Near,1.38,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-62
+5399,2024-05-22 07:22:39+00,Near,1.45,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5400,2024-05-22 07:22:40+00,Near,1.46,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-62
+5401,2024-05-22 07:22:41+00,Near,1.51,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5402,2024-05-22 07:22:42+00,Near,1.61,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-64
+5403,2024-05-22 07:22:43+00,Near,1.62,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5404,2024-05-22 07:22:44+00,Near,1.64,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5405,2024-05-22 07:22:45+00,Near,1.8,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-66
+5406,2024-05-22 07:22:46+00,Near,1.83,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-64
+5407,2024-05-22 07:22:47+00,Near,1.85,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-64
+5408,2024-05-22 07:22:48+00,Near,2.03,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-67
+5409,2024-05-22 07:22:49+00,Near,2.12,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-66
+5410,2024-05-22 07:22:50+00,Far,2.2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-66
+5411,2024-05-22 07:22:51+00,Far,2.32,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-67
+5412,2024-05-22 07:22:52+00,Far,2.42,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-67
+5413,2024-05-22 07:22:53+00,Far,2.18,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5414,2024-05-22 07:22:54+00,Near,1.33,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-55
+5415,2024-05-22 07:22:55+00,Near,0.82,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-52
+5416,2024-05-22 07:22:56+00,Near,0.7,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-54
+5417,2024-05-22 07:22:57+00,Near,0.66,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-55
+5418,2024-05-22 07:22:58+00,Near,0.63,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-55
+5419,2024-05-22 07:22:59+00,Near,0.68,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-57
+5420,2024-05-22 07:23:00+00,Near,0.87,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-62
+5421,2024-05-22 07:23:01+00,Near,0.99,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-61
+5422,2024-05-22 07:23:02+00,Near,1.16,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-63
+5423,2024-05-22 07:23:03+00,Near,1.4,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-66
+5424,2024-05-22 07:23:04+00,Near,1.12,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-57
+5425,2024-05-22 07:23:05+00,Near,0.87,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-55
+5426,2024-05-22 07:23:06+00,Near,0.95,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-60
+5427,2024-05-22 07:23:07+00,Near,1.05,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-61
+5428,2024-05-22 07:23:08+00,Near,1.12,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-61
+5429,2024-05-22 07:23:18+00,Far,3.75,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-71
+5430,2024-05-22 07:23:19+00,Far,3.25,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+5431,2024-05-22 07:23:20+00,Far,2.83,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-64
+5432,2024-05-22 07:23:21+00,Near,2.37,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-62
+5433,2024-05-22 07:23:22+00,Near,1.72,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-58
+5434,2024-05-22 07:23:23+00,Near,1.46,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-59
+5435,2024-05-22 07:23:24+00,Near,1.36,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-60
+5436,2024-05-22 07:23:25+00,Near,1.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-60
+5437,2024-05-22 07:23:26+00,Near,1.13,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-58
+5438,2024-05-22 07:23:27+00,Near,1.04,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-58
+5439,2024-05-22 07:23:28+00,Near,0.89,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5440,2024-05-22 07:23:29+00,Near,0.8,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5441,2024-05-22 07:23:30+00,Near,0.79,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5442,2024-05-22 07:23:31+00,Near,0.75,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5443,2024-05-22 07:23:32+00,Near,0.68,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-55
+5444,2024-05-22 07:23:33+00,Near,0.75,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-58
+5445,2024-05-22 07:23:34+00,Near,0.83,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-59
+5446,2024-05-22 07:23:35+00,Near,0.81,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5447,2024-05-22 07:23:36+00,Near,1,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-63
+5448,2024-05-22 07:23:37+00,Near,1.26,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+5449,2024-05-22 07:23:38+00,Near,1.5,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+5450,2024-05-22 07:23:39+00,Near,1.66,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+5451,2024-05-22 07:23:40+00,Near,1.78,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+5452,2024-05-22 07:23:41+00,Far,1.93,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+5453,2024-05-22 07:23:42+00,Near,1.98,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+5454,2024-05-22 07:23:43+00,Near,2.15,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-67
+5455,2024-05-22 07:23:44+00,Near,2.15,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+5456,2024-05-22 07:23:45+00,Near,2,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-63
+5457,2024-05-22 07:23:46+00,Near,1.6,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-59
+5458,2024-05-22 07:23:47+00,Near,1.18,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5459,2024-05-22 07:23:48+00,Near,0.97,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5460,2024-05-22 07:23:49+00,Near,0.9,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5461,2024-05-22 07:23:50+00,Near,0.85,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5462,2024-05-22 07:23:51+00,Near,0.82,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5463,2024-05-22 07:23:52+00,Near,0.76,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5464,2024-05-22 07:23:53+00,Near,0.77,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5465,2024-05-22 07:23:54+00,Near,0.77,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5466,2024-05-22 07:23:55+00,Near,0.81,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-58
+5467,2024-05-22 07:23:56+00,Near,0.83,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-58
+5468,2024-05-22 07:23:57+00,Near,0.73,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-55
+5469,2024-05-22 07:23:58+00,Near,0.75,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5470,2024-05-22 07:23:59+00,Near,0.83,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-59
+5471,2024-05-22 07:24:00+00,Near,0.95,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-61
+5472,2024-05-22 07:24:01+00,Near,0.88,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+5473,2024-05-22 07:24:02+00,Near,0.8,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5474,2024-05-22 07:24:03+00,Near,0.75,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5475,2024-05-22 07:24:04+00,Near,0.69,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-55
+5476,2024-05-22 07:24:05+00,Near,0.68,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5477,2024-05-22 07:24:06+00,Near,0.81,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-60
+5478,2024-05-22 07:24:07+00,Near,0.76,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+5529,2024-05-22 07:27:01+00,Far,3.77,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-70
+5530,2024-05-22 07:27:02+00,Far,4.06,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5531,2024-05-22 07:27:03+00,Far,4.25,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5532,2024-05-22 07:27:04+00,Far,3.99,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-68
+5533,2024-05-22 07:27:05+00,Far,4.33,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5534,2024-05-22 07:27:06+00,Far,4.72,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5535,2024-05-22 07:27:07+00,Far,5,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5536,2024-05-22 07:27:08+00,Far,5.05,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5537,2024-05-22 07:27:09+00,Far,5.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5538,2024-05-22 07:27:10+00,Far,5.4,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5539,2024-05-22 07:27:11+00,Far,5.49,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5540,2024-05-22 07:27:12+00,Far,5.45,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5541,2024-05-22 07:27:13+00,Far,5.16,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-70
+5542,2024-05-22 07:27:14+00,Far,5.29,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5543,2024-05-22 07:27:15+00,Far,5.58,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5544,2024-05-22 07:27:16+00,Far,5.65,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5545,2024-05-22 07:27:17+00,Far,5.16,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-69
+5546,2024-05-22 07:27:18+00,Far,4.67,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-68
+5547,2024-05-22 07:27:19+00,Far,4.67,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5548,2024-05-22 07:27:20+00,Far,4.85,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5549,2024-05-22 07:27:21+00,Far,4.92,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5550,2024-05-22 07:27:22+00,Far,5.08,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5551,2024-05-22 07:27:23+00,Far,5,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5552,2024-05-22 07:27:24+00,Far,4.24,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-66
+5553,2024-05-22 07:27:25+00,Far,2.71,data-v2 GL - lt 4 free,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-59
+5559,2024-05-22 07:27:49+00,Far,4.98,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5560,2024-05-22 07:27:50+00,Far,5.3,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5561,2024-05-22 07:27:51+00,Far,5.3,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5562,2024-05-22 07:27:52+00,Far,5.18,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5563,2024-05-22 07:27:53+00,Far,5.19,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5564,2024-05-22 07:27:54+00,Far,5.31,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5565,2024-05-22 07:27:55+00,Far,5.61,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5566,2024-05-22 07:27:56+00,Far,5.67,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5567,2024-05-22 07:27:57+00,Far,5.72,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5568,2024-05-22 07:27:58+00,Far,6.06,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+5569,2024-05-22 07:27:59+00,Far,6.05,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5570,2024-05-22 07:28:00+00,Far,5.91,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5571,2024-05-22 07:28:01+00,Far,5.8,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5572,2024-05-22 07:28:02+00,Far,5.83,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5573,2024-05-22 07:28:03+00,Far,5.6,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5574,2024-05-22 07:28:04+00,Far,5.77,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5575,2024-05-22 07:28:05+00,Far,5.8,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5576,2024-05-22 07:28:06+00,Far,5.94,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5577,2024-05-22 07:28:07+00,Far,6.17,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5578,2024-05-22 07:28:08+00,Far,6.26,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5579,2024-05-22 07:28:09+00,Far,6.56,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+5580,2024-05-22 07:28:10+00,Far,6.72,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5581,2024-05-22 07:28:11+00,Far,6.6,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5582,2024-05-22 07:28:12+00,Far,6.5,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5583,2024-05-22 07:28:13+00,Far,6.28,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5584,2024-05-22 07:28:14+00,Far,6.23,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5585,2024-05-22 07:28:15+00,Far,6.06,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5586,2024-05-22 07:28:16+00,Far,6.17,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5587,2024-05-22 07:28:17+00,Far,6.26,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5588,2024-05-22 07:28:18+00,Far,6.08,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5589,2024-05-22 07:28:19+00,Far,5.94,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5590,2024-05-22 07:28:20+00,Far,6.26,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+5591,2024-05-22 07:28:21+00,Far,6.45,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5592,2024-05-22 07:28:22+00,Far,6.38,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5593,2024-05-22 07:28:23+00,Far,6.03,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5594,2024-05-22 07:28:24+00,Far,6.02,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5595,2024-05-22 07:28:25+00,Far,6.13,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5596,2024-05-22 07:28:26+00,Far,5.98,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5597,2024-05-22 07:28:27+00,Far,6.2,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5598,2024-05-22 07:28:28+00,Far,6.29,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5599,2024-05-22 07:28:29+00,Far,6.48,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+5600,2024-05-22 07:28:30+00,Far,6.85,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+5601,2024-05-22 07:28:31+00,Far,6.7,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+5602,2024-05-22 07:28:32+00,Far,6.28,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5603,2024-05-22 07:28:33+00,Far,5.96,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-71
+5604,2024-05-22 07:28:34+00,Far,6.08,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+5605,2024-05-22 07:28:35+00,Far,6.38,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+5606,2024-05-22 07:28:36+00,Far,6.66,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+5607,2024-05-22 07:28:37+00,Far,7.02,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+5608,2024-05-22 07:28:38+00,Far,6.69,data-v2 GL - lt 4 free 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+5819,2024-05-22 07:58:28+00,Near,1.26,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-62
+5820,2024-05-22 07:58:29+00,Near,1.27,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-61
+5821,2024-05-22 07:58:30+00,Near,1.17,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-59
+5822,2024-05-22 07:58:31+00,Near,1.21,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-61
+5823,2024-05-22 07:58:32+00,Near,1.32,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-63
+5824,2024-05-22 07:58:33+00,Near,1.41,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-63
+5825,2024-05-22 07:58:34+00,Near,1.37,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-61
+5826,2024-05-22 07:58:35+00,Near,1.18,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-58
+5827,2024-05-22 07:58:36+00,Near,1.11,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-59
+5828,2024-05-22 07:58:37+00,Near,1.12,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5829,2024-05-22 07:58:38+00,Near,1.13,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5830,2024-05-22 07:58:39+00,Near,1.13,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5831,2024-05-22 07:58:40+00,Near,1.08,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-59
+5832,2024-05-22 07:58:41+00,Near,1.1,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5833,2024-05-22 07:58:42+00,Near,1.11,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5834,2024-05-22 07:58:43+00,Near,1.21,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-62
+5835,2024-05-22 07:58:44+00,Near,1.23,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-61
+5836,2024-05-22 07:58:45+00,Near,1.2,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5837,2024-05-22 07:58:46+00,Near,1.18,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5838,2024-05-22 07:58:47+00,Near,0.58,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-49
+5839,2024-05-22 07:58:48+00,Near,0.35,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-47
+5840,2024-05-22 07:58:49+00,Near,0.53,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-61
+5841,2024-05-22 07:58:50+00,Near,0.78,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-64
+5842,2024-05-22 07:58:51+00,Near,1.1,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-67
+5843,2024-05-22 07:58:52+00,Near,1.37,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-66
+5844,2024-05-22 07:58:53+00,Far,1.56,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-65
+5845,2024-05-22 07:58:54+00,Far,1.75,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-66
+5846,2024-05-22 07:58:55+00,Far,1.85,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-65
+5847,2024-05-22 07:58:56+00,Far,1.86,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-64
+5848,2024-05-22 07:58:57+00,Far,1.87,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-64
+5849,2024-05-22 07:58:58+00,Far,2,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-66
+5850,2024-05-22 07:58:59+00,Far,2.1,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-66
+5851,2024-05-22 07:59:00+00,Near,2.04,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-64
+5852,2024-05-22 07:59:01+00,Near,1.86,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-62
+5853,2024-05-22 07:59:02+00,Near,1.8,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-63
+5854,2024-05-22 07:59:03+00,Near,1.63,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-61
+5855,2024-05-22 07:59:04+00,Near,1.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-60
+5856,2024-05-22 07:59:05+00,Near,1.29,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-59
+5857,2024-05-22 07:59:06+00,Near,1.19,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-59
+5858,2024-05-22 07:59:07+00,Near,1.02,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-57
+5859,2024-05-22 07:59:08+00,Near,0.83,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-55
+5860,2024-05-22 07:59:09+00,Near,0.61,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-52
+5861,2024-05-22 07:59:10+00,Near,0.45,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5862,2024-05-22 07:59:11+00,Near,0.38,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-50
+5863,2024-05-22 07:59:12+00,Near,0.37,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5864,2024-05-22 07:59:13+00,Near,0.36,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5865,2024-05-22 07:59:14+00,Near,0.36,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-51
+5866,2024-05-22 07:59:15+00,Near,0.41,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-53
+5867,2024-05-22 07:59:16+00,Near,0.5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-56
+5868,2024-05-22 07:59:17+00,Near,0.6,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,1,-57
+5869,2024-05-22 07:59:35+00,Near,1.17,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5870,2024-05-22 07:59:36+00,Near,1.25,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5871,2024-05-22 07:59:37+00,Near,1.31,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5872,2024-05-22 07:59:38+00,Near,1.36,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5873,2024-05-22 07:59:39+00,Near,1.28,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-60
+5874,2024-05-22 07:59:40+00,Near,1.18,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-59
+5875,2024-05-22 07:59:41+00,Near,1.21,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5876,2024-05-22 07:59:42+00,Near,1.28,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5877,2024-05-22 07:59:43+00,Near,1.29,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5878,2024-05-22 07:59:44+00,Immediate,1.34,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5879,2024-05-22 07:59:45+00,Near,1.37,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5880,2024-05-22 07:59:46+00,Near,1.45,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5881,2024-05-22 07:59:47+00,Near,1.4,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5882,2024-05-22 07:59:48+00,Near,1.31,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-60
+5883,2024-05-22 07:59:49+00,Near,1.25,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-60
+5884,2024-05-22 07:59:50+00,Near,1.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-59
+5885,2024-05-22 07:59:51+00,Near,1.15,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-60
+5886,2024-05-22 07:59:52+00,Near,1.19,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5887,2024-05-22 07:59:53+00,Near,1.35,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5888,2024-05-22 07:59:54+00,Near,1.53,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-65
+5889,2024-05-22 07:59:55+00,Far,1.77,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-67
+5890,2024-05-22 07:59:56+00,Far,1.92,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-66
+5891,2024-05-22 07:59:57+00,Far,1.98,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-65
+5892,2024-05-22 07:59:58+00,Far,1.81,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5893,2024-05-22 07:59:59+00,Far,1.56,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-60
+5894,2024-05-22 08:00:00+00,Far,1.42,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-60
+5895,2024-05-22 08:00:01+00,Far,1.38,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5896,2024-05-22 08:00:02+00,Far,1.45,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5897,2024-05-22 08:00:03+00,Far,1.51,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5898,2024-05-22 08:00:04+00,Far,1.55,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5899,2024-05-22 08:00:05+00,Far,1.58,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5900,2024-05-22 08:00:06+00,Far,1.55,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5901,2024-05-22 08:00:07+00,Far,1.47,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-61
+5902,2024-05-22 08:00:08+00,Near,1.52,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5903,2024-05-22 08:00:09+00,Near,1.61,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5904,2024-05-22 08:00:10+00,Near,1.57,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-62
+5905,2024-05-22 08:00:11+00,Near,1.65,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5906,2024-05-22 08:00:12+00,Near,1.71,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5907,2024-05-22 08:00:13+00,Far,1.76,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5908,2024-05-22 08:00:14+00,Far,1.79,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5909,2024-05-22 08:00:15+00,Far,1.88,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-65
+5910,2024-05-22 08:00:16+00,Near,1.95,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-65
+5911,2024-05-22 08:00:17+00,Near,1.93,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5912,2024-05-22 08:00:18+00,Near,1.86,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5913,2024-05-22 08:00:19+00,Near,1.87,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5914,2024-05-22 08:00:20+00,Near,1.93,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-65
+5915,2024-05-22 08:00:21+00,Near,2.05,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-66
+5916,2024-05-22 08:00:22+00,Near,2,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5917,2024-05-22 08:00:23+00,Near,1.91,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-63
+5918,2024-05-22 08:00:24+00,Near,1.9,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,2,-64
+5919,2024-05-22 08:00:32+00,Far,2.09,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-63
+5920,2024-05-22 08:00:33+00,Far,1.96,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-63
+5921,2024-05-22 08:00:34+00,Far,2.01,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5922,2024-05-22 08:00:35+00,Far,2.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-67
+5923,2024-05-22 08:00:36+00,Far,2.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5924,2024-05-22 08:00:37+00,Near,2.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5925,2024-05-22 08:00:38+00,Near,2.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5926,2024-05-22 08:00:39+00,Near,2.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5927,2024-05-22 08:00:40+00,Far,2.28,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-67
+5928,2024-05-22 08:00:41+00,Far,2.39,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-67
+5929,2024-05-22 08:00:42+00,Far,2.4,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5930,2024-05-22 08:00:43+00,Far,2.41,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5931,2024-05-22 08:00:44+00,Far,2.35,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5932,2024-05-22 08:00:45+00,Far,2.56,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-69
+5933,2024-05-22 08:00:46+00,Far,2.53,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5934,2024-05-22 08:00:47+00,Far,2.43,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5935,2024-05-22 08:00:48+00,Far,2.36,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5936,2024-05-22 08:00:49+00,Far,2.38,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5937,2024-05-22 08:00:50+00,Far,2.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-67
+5938,2024-05-22 08:00:51+00,Far,2.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5939,2024-05-22 08:00:52+00,Far,2.38,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5940,2024-05-22 08:00:53+00,Far,2.53,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5941,2024-05-22 08:00:54+00,Far,2.78,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-70
+5942,2024-05-22 08:00:55+00,Far,3.11,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-72
+5943,2024-05-22 08:00:56+00,Far,3.42,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-72
+5944,2024-05-22 08:00:57+00,Far,3.55,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-70
+5945,2024-05-22 08:00:58+00,Far,3.35,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-67
+5946,2024-05-22 08:00:59+00,Far,3.12,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5947,2024-05-22 08:01:00+00,Far,2.85,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-65
+5948,2024-05-22 08:01:01+00,Far,2.75,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5949,2024-05-22 08:01:02+00,Far,2.68,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-66
+5950,2024-05-22 08:01:03+00,Far,2.7,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-67
+5951,2024-05-22 08:01:04+00,Far,2.86,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-69
+5952,2024-05-22 08:01:05+00,Far,3.12,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-71
+5953,2024-05-22 08:01:06+00,Far,3.29,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-70
+5954,2024-05-22 08:01:07+00,Far,3.51,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-71
+5955,2024-05-22 08:01:08+00,Far,3.61,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-70
+5956,2024-05-22 08:01:09+00,Far,3.93,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-73
+5957,2024-05-22 08:01:10+00,Far,4.06,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-71
+5958,2024-05-22 08:01:11+00,Far,3.84,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5959,2024-05-22 08:01:12+00,Far,3.69,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5960,2024-05-22 08:01:13+00,Far,3.57,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5961,2024-05-22 08:01:14+00,Far,3.49,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5962,2024-05-22 08:01:15+00,Far,3.42,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5963,2024-05-22 08:01:16+00,Far,3.45,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-69
+5964,2024-05-22 08:01:17+00,Far,3.39,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5965,2024-05-22 08:01:18+00,Far,3.34,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-68
+5966,2024-05-22 08:01:19+00,Far,3.39,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-69
+5967,2024-05-22 08:01:20+00,Far,2.15,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-58
+5968,2024-05-22 08:01:23+00,Near,1.47,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,3,-60
+5969,2024-05-22 08:01:55+00,Far,6.19,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-78
+5970,2024-05-22 08:01:56+00,Far,6.63,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+5971,2024-05-22 08:01:57+00,Far,7.13,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-78
+5972,2024-05-22 08:01:58+00,Far,7.47,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+5973,2024-05-22 08:01:59+00,Far,7.89,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-78
+5974,2024-05-22 08:02:00+00,Far,8.15,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+5975,2024-05-22 08:02:01+00,Far,8.62,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-79
+5976,2024-05-22 08:02:02+00,Far,8.64,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+5977,2024-05-22 08:02:03+00,Far,8.5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+5978,2024-05-22 08:02:04+00,Far,8.69,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+5979,2024-05-22 08:02:05+00,Far,8.84,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+5980,2024-05-22 08:02:06+00,Far,8.5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+5981,2024-05-22 08:02:07+00,Far,8.39,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+5982,2024-05-22 08:02:08+00,Far,8.58,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+5983,2024-05-22 08:02:09+00,Far,8.45,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+5984,2024-05-22 08:02:10+00,Far,8.19,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+5985,2024-05-22 08:02:11+00,Far,7.97,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+5986,2024-05-22 08:02:12+00,Far,7.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-72
+5987,2024-05-22 08:02:13+00,Far,7.36,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+5988,2024-05-22 08:02:14+00,Far,7.28,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+5989,2024-05-22 08:02:15+00,Far,7.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+5990,2024-05-22 08:02:16+00,Far,7.62,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+5991,2024-05-22 08:02:17+00,Far,7.64,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+5992,2024-05-22 08:02:18+00,Far,7.65,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+5993,2024-05-22 08:02:19+00,Far,7.67,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+5994,2024-05-22 08:02:20+00,Far,7.81,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+5995,2024-05-22 08:02:21+00,Far,8.05,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+5996,2024-05-22 08:02:22+00,Far,8.15,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+5997,2024-05-22 08:02:23+00,Far,7.93,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+5998,2024-05-22 08:02:24+00,Far,7.76,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+5999,2024-05-22 08:02:25+00,Far,7.61,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+6000,2024-05-22 08:02:26+00,Far,7.49,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+6001,2024-05-22 08:02:27+00,Far,7.52,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+6002,2024-05-22 08:02:28+00,Far,7.55,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+6003,2024-05-22 08:02:29+00,Far,7.44,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+6004,2024-05-22 08:02:30+00,Far,7.91,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-79
+6005,2024-05-22 08:02:31+00,Far,8.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-80
+6006,2024-05-22 08:02:32+00,Far,8.77,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-78
+6007,2024-05-22 08:02:33+00,Far,8.61,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+6008,2024-05-22 08:02:34+00,Far,8.13,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-73
+6009,2024-05-22 08:02:35+00,Far,7.92,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+6010,2024-05-22 08:02:36+00,Far,8.03,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+6011,2024-05-22 08:02:37+00,Far,7.99,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-75
+6012,2024-05-22 08:02:38+00,Far,8.09,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+6013,2024-05-22 08:02:39+00,Far,8.62,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-80
+6014,2024-05-22 08:02:40+00,Far,8.79,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-77
+6015,2024-05-22 08:02:41+00,Far,8.27,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-73
+6016,2024-05-22 08:02:42+00,Far,8.04,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-74
+6017,2024-05-22 08:02:43+00,Far,8.47,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-79
+6018,2024-05-22 08:02:44+00,Far,8.51,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,5,-76
+6019,2024-05-22 08:02:54+00,Far,7.23,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-73
+6020,2024-05-22 08:02:55+00,Far,7.17,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-74
+6021,2024-05-22 08:02:56+00,Far,7.12,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-74
+6022,2024-05-22 08:02:57+00,Far,6.04,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6023,2024-05-22 08:02:58+00,Far,5.65,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-70
+6024,2024-05-22 08:02:59+00,Far,5.59,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-72
+6025,2024-05-22 08:03:00+00,Far,5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6026,2024-05-22 08:03:01+00,Far,4.44,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-67
+6027,2024-05-22 08:03:02+00,Far,4.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6028,2024-05-22 08:03:03+00,Far,4.05,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-69
+6029,2024-05-22 08:03:04+00,Far,3.5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+6030,2024-05-22 08:03:05+00,Far,3.24,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+6031,2024-05-22 08:03:06+00,Far,3.05,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+6032,2024-05-22 08:03:07+00,Far,2.91,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+6033,2024-05-22 08:03:08+00,Far,3.03,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-69
+6034,2024-05-22 08:03:09+00,Far,3.06,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6035,2024-05-22 08:03:10+00,Far,2.9,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+6036,2024-05-22 08:03:11+00,Far,2.79,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+6037,2024-05-22 08:03:12+00,Far,2.63,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+6038,2024-05-22 08:03:13+00,Far,2.5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-65
+6039,2024-05-22 08:03:14+00,Far,2.63,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6040,2024-05-22 08:03:15+00,Far,2.86,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-70
+6041,2024-05-22 08:03:16+00,Far,2.99,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-69
+6042,2024-05-22 08:03:17+00,Far,3.11,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-69
+6043,2024-05-22 08:03:18+00,Far,3.03,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-67
+6044,2024-05-22 08:03:19+00,Far,1.86,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+6045,2024-05-22 08:03:20+00,Near,1.32,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+6046,2024-05-22 08:03:21+00,Near,1.11,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+6047,2024-05-22 08:03:22+00,Near,0.98,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+6048,2024-05-22 08:03:23+00,Near,0.86,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-56
+6049,2024-05-22 08:03:24+00,Near,0.75,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-55
+6050,2024-05-22 08:03:25+00,Near,0.82,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-59
+6051,2024-05-22 08:03:26+00,Near,0.88,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-59
+6052,2024-05-22 08:03:27+00,Near,0.84,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+6053,2024-05-22 08:03:28+00,Near,0.81,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-57
+6054,2024-05-22 08:03:29+00,Near,1,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-63
+6055,2024-05-22 08:03:30+00,Near,1.2,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-64
+6056,2024-05-22 08:03:31+00,Near,1.23,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-61
+6057,2024-05-22 08:03:32+00,Far,1.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+6058,2024-05-22 08:03:33+00,Far,1.75,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6059,2024-05-22 08:03:34+00,Far,1.96,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-67
+6060,2024-05-22 08:03:35+00,Far,2.07,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-66
+6061,2024-05-22 08:03:36+00,Far,2.28,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6062,2024-05-22 08:03:37+00,Far,2.39,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-67
+6063,2024-05-22 08:03:38+00,Far,2.54,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-68
+6064,2024-05-22 08:03:39+00,Far,2.74,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-69
+6065,2024-05-22 08:03:40+00,Far,2.9,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-69
+6066,2024-05-22 08:03:41+00,Far,3.03,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-69
+6067,2024-05-22 08:03:42+00,Far,3.28,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-71
+6068,2024-05-22 08:03:43+00,Far,2.72,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,7,-63
+6069,2024-05-22 08:04:38+00,Far,5.92,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+6070,2024-05-22 08:04:39+00,Far,6.35,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+6071,2024-05-22 08:04:40+00,Far,6.54,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+6072,2024-05-22 08:04:41+00,Far,6.45,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+6073,2024-05-22 08:04:42+00,Far,6.5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+6074,2024-05-22 08:04:43+00,Far,6.55,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+6075,2024-05-22 08:04:44+00,Far,6.46,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-73
+6076,2024-05-22 08:04:45+00,Far,6.24,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-72
+6077,2024-05-22 08:04:46+00,Far,6.53,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+6078,2024-05-22 08:04:47+00,Far,6.9,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+6079,2024-05-22 08:04:48+00,Far,7.01,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+6080,2024-05-22 08:04:49+00,Far,6.98,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+6081,2024-05-22 08:04:50+00,Far,5.92,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-68
+6082,2024-05-22 08:04:51+00,Far,4.87,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-66
+6083,2024-05-22 08:04:52+00,Far,4.06,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-65
+6084,2024-05-22 08:04:53+00,Far,3.77,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-67
+6085,2024-05-22 08:04:54+00,Far,4.15,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-75
+6086,2024-05-22 08:04:55+00,Far,4.58,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+6087,2024-05-22 08:04:56+00,Far,5.22,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-80
+6088,2024-05-22 08:04:57+00,Far,5.98,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-82
+6089,2024-05-22 08:04:58+00,Far,6.65,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-80
+6090,2024-05-22 08:04:59+00,Far,7.5,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-83
+6091,2024-05-22 08:05:00+00,Far,8.57,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-87
+6092,2024-05-22 08:05:01+00,Far,9.68,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-87
+6093,2024-05-22 08:05:02+00,Far,10.31,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-81
+6094,2024-05-22 08:05:03+00,Far,10.75,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-80
+6095,2024-05-22 08:05:04+00,Far,11.29,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-81
+6096,2024-05-22 08:05:05+00,Far,11.79,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-81
+6097,2024-05-22 08:05:06+00,Far,12.51,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-83
+6098,2024-05-22 08:05:07+00,Far,12.74,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-80
+6099,2024-05-22 08:05:08+00,Far,12.95,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-80
+6100,2024-05-22 08:05:09+00,Far,12.94,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-79
+6101,2024-05-22 08:05:10+00,Far,12.51,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+6102,2024-05-22 08:05:11+00,Far,12.16,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+6103,2024-05-22 08:05:12+00,Far,11.65,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+6104,2024-05-22 08:05:13+00,Far,10.77,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
+6105,2024-05-22 08:05:14+00,Far,10.84,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-78
+6106,2024-05-22 08:05:15+00,Far,11.04,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-79
+6107,2024-05-22 08:05:16+00,Far,11.71,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-83
+6108,2024-05-22 08:05:17+00,Far,11.28,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+6109,2024-05-22 08:05:18+00,Far,10.92,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-76
+6110,2024-05-22 08:05:19+00,Far,11.12,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-79
+6111,2024-05-22 08:05:20+00,Far,10.98,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+6112,2024-05-22 08:05:21+00,Far,10.85,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+6113,2024-05-22 08:05:22+00,Far,11.32,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-81
+6114,2024-05-22 08:05:23+00,Far,11.99,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-83
+6115,2024-05-22 08:05:24+00,Far,12.53,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-82
+6116,2024-05-22 08:05:25+00,Far,12.9,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-81
+6117,2024-05-22 08:05:26+00,Far,12.48,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-77
+6118,2024-05-22 08:05:27+00,Far,11.4,data-v2 GL - lt 2,96b4164c-4eeb-55a7-dc43-bc177aef8239,13,-74
